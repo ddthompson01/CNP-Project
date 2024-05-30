@@ -3,16 +3,16 @@
 Fi
 - [x] **SQL** - 
   - School Nutrition Programs - Meal Reimbursement: Data Cleaning <br />
-*Review the SQL Script:* **[HERE]([)](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/data_cleaning.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/data_cleaning.sql)**<br />
   - School Nutrition Programs - Meal Reimbursement: Data Analysis <br />
-*Review the SQL Script:* **[HERE]([)](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/data_analysis.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/data_analysis.sql)**<br />
 
 - [x] **Python** - 
   - Data Cleaning <br />
-*Review the Python Script* **[HERE]([)](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/datacleaning.py)**<br />
-    - Fitered/Cleaned Excel **[Here]([)][(](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/IDEA_Public_Schools.csv))
+*Review the Python Script* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/datacleaning.py)**<br />
+    - Fitered/Cleaned Excel **[Here](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/IDEA_Public_Schools.csv))
 - Exploratory Data Analysis (EDA) <br />
-*Review the Python Script* **[HERE]([)](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/analysis.py)**<br />
+*Review the Python Script* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/analysis.py)**<br />
 
 - [x] **Tableau** - 
   - Data Visualization and Dashboard <br />
