@@ -22,9 +22,9 @@ FROM idea_public_schools
 WHERE TotalReimbursement > 5000;
 
 -- 5. Counting the number of schools in each county
-SELECT CECounty, COUNT(*) AS School_Count
+SELECT SiteCounty, COUNT(*) AS School_Count
 FROM idea_public_schools
-GROUP BY CECounty;
+GROUP BY SiteCounty;
 
 -- 6. Exploring the distribution of meal reimbursements
 
