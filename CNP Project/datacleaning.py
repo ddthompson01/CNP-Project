@@ -9,7 +9,7 @@ idea_data = data[data['CEName'].str.contains('IDEA', case=False, na=False)]
 
 # Droping columns missing values
 columns_to_drop = [
-    'CountyDistrictCode','CEName','ReportType', 'CEID', 'TypeOfAgency', 'TypeOfSNPOrg',
+    'CountyDistrictCode','CEName','CECounty','ReportType', 'CEID', 'TypeOfAgency', 'TypeOfSNPOrg',
     'MilkDays', 'Milktotal', 'MilkADP', 'MilkServedFree', 'MilkServedReduced',
     'MilkServedPaid', 'MilkReimbursement'
 ]
