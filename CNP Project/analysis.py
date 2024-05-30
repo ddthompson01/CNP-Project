@@ -62,7 +62,7 @@ print("Correlation between Meals Served and Reimbursements:")
 print(meal_reimbursement_corr)
 
 # 3. Equity Analysis
-hidalgo_data = data[data['CECounty'] == 'Hidalgo']
+hidalgo_data = data[data['SiteCounty'] == 'Hidalgo']
 meal_eligibility_distribution = data.groupby('SiteName')[['FreeEligibleQty', 'ReducedEligibleQty', 'PaidEligibleQty']].sum().reset_index()
 print("Meal Eligibility Distribution 2017-2018:")
 print(meal_eligibility_distribution)
