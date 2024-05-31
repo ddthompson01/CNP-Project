@@ -11,7 +11,7 @@
   - Data Cleaning <br />
 *Review the Python Script* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/datacleaning.py)**<br />
     - Fitered/Cleaned Excel [HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/IDEA_Public_Schools.csv)
-- Exploratory Data Analysis (EDA) <br />
+  - Exploratory Data Analysis (EDA) <br />
 *Review the Python Script* **[HERE](https://github.com/ddthompson01/CNP-Project/blob/main/CNP%20Project/analysis.py)**<br />
 
 - [x] **EXCEL** - 
