@@ -7,7 +7,7 @@ data = pd.read_csv(file_path)
 # Filtering data for only IDEA Public Schools
 idea_data = data[data['CEName'].str.contains('IDEA', case=False, na=False)]
 
-# Droping columns missing values
+# Dropping columns 
 columns_to_drop = [
     'CountyDistrictCode','CEName','CECounty','ReportType', 'CEID', 'TypeOfAgency', 'TypeOfSNPOrg',
     'MilkDays', 'Milktotal', 'MilkADP', 'MilkServedFree', 'MilkServedReduced',
